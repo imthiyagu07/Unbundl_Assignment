@@ -94,6 +94,7 @@
     background-position: center;
     min-width: 390px;
     min-height: 394px;
+    flex: 1;
 }
 
 .hero-section-lg{

@@ -412,6 +412,8 @@
 
 .main-container{
     font-family: 'Figtree';
+    display: flex;
+    justify-content: center;
 }
 
 .dental-implants-top{
@@ -586,6 +588,8 @@
 .result-container{
     margin-top: 40px;
     margin-left: 17px;
+    display: flex;
+    justify-content: center
 }
 
 .result-container h2{
